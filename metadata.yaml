@@ -1,0 +1,28 @@
+_repo: Manual-of-veterinary-homeopathy-b-comprising-diseases-of-horses-cattle-sheep-hogs-dogs-and-po__74524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Humphreys, Frederick
+    gutenberg_agent_id: '57537'
+    url: http://www.gutenberg.org/2009/agents/57537
+description: ''
+gutenberg_issued: '2024-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74524'
+language: en
+pgterms:marc904: https://archive.org/details/manualofveterina01hump
+pgterms:marc905: 20201203214422humphreys
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bHumphrey''s homeopathic medicine co., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Manual of veterinary homeopathy, : $b comprising diseases of horses, cattle,
+  sheep, hogs, dogs and poultry and their homeopathic treatment'
+url: http://www.gutenberg.org/ebooks/74524
